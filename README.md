@@ -27,3 +27,7 @@ ABSTRACT = {Commercial load is an essential demand-side resource. Monitoring com
 DOI = {10.3390/s22145250}
 }
 ```
+
+Today, I found that an article used the same parameter settings as my article in the evaluation section, but did not quote my article. I was too sad.
+X. Cheng, M. Zhao, J. Zhang, J. Wang, X. Pan and X. Liu, "TransNILM: A Transformer-based Deep Learning Model for Non-intrusive Load Monitoring," 2022 International Conference on High Performance Big Data and Intelligent Systems (HDIS), Tianjin, China, 2022, pp. 13-20, doi: 10.1109/HDIS56859.2022.9991439.
+
