@@ -1,3 +1,6 @@
+# :clap: It is a great honor for this piece of work to have received an entrepreneurial collaboration invitation from a renowned university professor.
+![image](https://github.com/shaoshuai6666/NILM-TTRNet/blob/main/QQ%E5%9B%BE%E7%89%8720230630131841.png)
+
 # TTRNet
 This is an approach to NILM for commercial loads, and my article is in press.This is my first paper, because of the lack of personal ability, inevitably there are omissions, welcome interested in the exchange of discussion together.
 
@@ -28,6 +31,6 @@ DOI = {10.3390/s22145250}
 }
 ```
 
-Today, I found that an article used the same parameter settings as my article in the evaluation section, but did not quote my article. I was too sad.
+:disappointed_relieved:Today, I found that an article used the same parameter settings as my article in the evaluation section, but did not quote my article. I was too sad.
 X. Cheng, M. Zhao, J. Zhang, J. Wang, X. Pan and X. Liu, "TransNILM: A Transformer-based Deep Learning Model for Non-intrusive Load Monitoring," 2022 International Conference on High Performance Big Data and Intelligent Systems (HDIS), Tianjin, China, 2022, pp. 13-20, doi: 10.1109/HDIS56859.2022.9991439.
 
